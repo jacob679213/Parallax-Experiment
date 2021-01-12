@@ -1,0 +1,24 @@
+body, html{
+    height: 100%;
+}
+
+#engineerGaming{
+    background-image: url("engineer-gaming.jpg");
+}
+
+#sandvich{
+    background-image: url("sandvich.jpg");
+}
+
+.paralax{            
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    height: 100px;
+}
