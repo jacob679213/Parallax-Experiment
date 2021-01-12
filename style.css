@@ -22,3 +22,7 @@ body, html{
 div{
     height: 100px;
 }
+
+iframe[seamless] {
+    border: none;
+}
